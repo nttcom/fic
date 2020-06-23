@@ -6,7 +6,7 @@ require (
 	github.com/cheynewallace/tabby v1.1.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/gox v1.0.1
-	github.com/nttcom/go-fic v1.0.2
+	github.com/nttcom/go-fic v1.0.3
 	github.com/pelletier/go-toml v1.6.0 // indirect
 	github.com/spf13/afero v1.2.2 // indirect
 	github.com/spf13/cobra v0.0.5
